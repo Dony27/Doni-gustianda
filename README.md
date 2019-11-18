@@ -17,7 +17,7 @@ echo $i  "Loading........)"
 sleep 1.50
 clear
 sleep 1.50
-echo $cy "                      <Mr.DHACK>"
+echo $cy "                      <DྂOྂNྂYྂ Rྂgྂ>"
 echo $ku "     <============================================>"
 sleep 0.50
 echo $ku "     <======          InstallerV2           ======>"
@@ -26,9 +26,8 @@ echo $ku "     <============================================>"
 echo $cy "                       <=profile=>"
 echo $ku " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"    
 echo $pu " <========================>"
-echo $cy " Author : Mr.D'HACK"
+echo $cy " Author : DྂOྂNྂYྂ.Rྂgྂ"
 echo $pu " <========================>"
-echo $cy " Wa     : 085647728398"
 echo $pu " <========================>"
 echo $cy " Github : github.com/DH4CK1"
 echo $pu " <========================>"
@@ -286,9 +285,6 @@ then
     clear
     echo $cy"Terima kasih telah menggunakan tools saya :)"
     echo $cy"semoga bermanfaat!"
-    echo $i "bila ada bug atau masalah pada tools silahkan hubungi saya"
-    echo $i "Wa : 085647728398"
-    echo $bi"see you again!"
     sleep 3
 else
     clear
