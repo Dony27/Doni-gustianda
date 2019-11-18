@@ -27,7 +27,7 @@ echo $cy " Author : DྂOྂNྂYྂ.Rྂgྂ "
 echo $pu " <========================> "
 echo $bi " youtube chanel :Doni gustianda "
 echo $pu " <========================>"
-echo $cy " Github : github.com/DH4CK1"
+echo $cy " https://github.com/Dony27/Doni-gustianda.git"
 echo $pu " <========================>"
 echo $ku " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sleep 1.50
